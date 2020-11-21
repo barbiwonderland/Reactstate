@@ -1,0 +1,40 @@
+.gato,.gato img{
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border: 3px solid black;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+p{
+  color: black;
+  font-size: 16px;
+  text-align: center;
+}
+button{
+  background-color:greenyellow;
+  height: 50px;
+  align-items: center;
+  margin:auto;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.App{
+  display: flex;
+  justify-content: center;
+}
+h1{
+  color:black;
+text-shadow: 2px 2px 2px greenyellow;
+}
+.centrar{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
